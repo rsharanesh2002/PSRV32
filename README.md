@@ -19,6 +19,4 @@ A CPU Core built upon RISC-V Archiecture
 
 
 #### Developers
-Phani Jayanth J
-
-Sharanesh R
+Phani Jayanth J and Sharanesh R
