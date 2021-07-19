@@ -8,20 +8,16 @@ A CPU Core built upon RISC-V Archiecture
   - Memory Access (MEM)
   - Writeback (WB)           
 
-The Verilog code for each of the stages and their internal sub-modules shall included as .v files.       
-**?? Inorder to overcome the dependencies resulting into hazards, we have to include a Hazard Detection Unit (To stall) and a Data Forwarding Unit (To forward) the data. ??**     
+- [ ] The Verilog code for each of the stages and their internal sub-modules shall included as .v files.       
+- [ ] Inorder to overcome the dependencies resulting into hazards, we have to include a Hazard Detection Unit (To stall) and a Data Forwarding Unit (To forward) the data.  
 
-ADD LINK - Reference - Computer Organization and Design by Hennessy and Patterson
-
-
-
+### Reference
+1. Computer Organization and Design by Hennessy and Patterson
 
 
 
 
 
-
-
-##### Developers
+#### Developers
 Phani Jayanth J
 Sharanesh R
