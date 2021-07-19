@@ -12,7 +12,7 @@ A CPU Core built upon RISC-V Archiecture
 - [ ] Inorder to overcome the dependencies resulting into hazards, we have to include a Hazard Detection Unit (To stall) and a Data Forwarding Unit (To forward) the data.  
 
 ### Reference
-1. Computer Organization and Design by Hennessy and Patterson
+1. Computer Organization and Design by Patterson and Hennesey
 
 
 
