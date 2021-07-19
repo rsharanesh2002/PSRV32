@@ -1,5 +1,5 @@
 # PSRV32
-A CPU Core built upon RISC-V Archiecture         
+      
 ### Design and Implementation of 5-Stage Pipeline Architecture using Verilog
 * 5-stage Pipelining consists of the following stages:
   - Instruction Fetch (IF)
@@ -15,7 +15,8 @@ A CPU Core built upon RISC-V Archiecture
 1. Computer Organization and Design by Patterson and Hennesey
 
 
-
+#### PS
+The code is under development and will be updated as and then when a module is complete.
 
 
 #### Developers
