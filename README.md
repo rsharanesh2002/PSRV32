@@ -15,7 +15,7 @@
 1. Computer Organization and Design by Patterson and Hennesey
 
 
-**Note: The code is under development and will be updated as and then when a module is complete.**
+**Note: The code is under development and will be updated as and when a module is complete.**
 
 
 #### Developers
